@@ -255,7 +255,6 @@ th {
     							}
 
     							?></td>
-							<td><?php echo $row["peralatan"] ?></td>
 							<td><?php echo $row["start_day"] ?> --- <?php echo $row["end_day"]; ?></td>
 							<td><?php echo $row["start_time"] ?> --- <?php echo $row["end_time"]; ?></td>
 							<td><?php if($row['cancel'] == 0 )
