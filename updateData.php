@@ -186,7 +186,7 @@ td.calendar-day, td.calendar-day-np {
                 </tr>
 				<tr>
 					<td height="55">Nama</td>
-					<td> <input name="name" class="form-control" required="required" type="text" value="<?php echo $row['name'];?>" disabled></td>
+					<td> <input name="name" class="form-control" required="required" type="text" value="<?php echo $row['name'];?>"></td>
 					
 				</tr>
 				
